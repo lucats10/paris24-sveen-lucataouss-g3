@@ -11,7 +11,7 @@ Original file is located at
 **WC, Slide 8 - Exercise 1**
 """
 # Authors: LTS
-# State : ongoing 
+# State : completed 
 
 #Exercise 1----------------------------------------------------------------
 # Exercise 1----------------------------------------------------------------
